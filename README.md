@@ -122,10 +122,10 @@ anchor deploy --provider.cluster devnet
 
 ## Devnet Deployment
 
-- Program ID: `3toetXrMDWD2KkkvzmtBdytqAeuJ9DKoCwDTPzPjjMh2`
-- Build status: ✅ Successfully compiled (300KB .so + IDL)
-- Deployment status: ⏳ Pending — Devnet faucet rate-limited at time of submission. Program will be deployed once SOL is available.
-- The program is fully functional and ready for deployment. Run `anchor deploy --provider.cluster devnet` with a funded wallet.
+- Program ID: [`3toetXrMDWD2KkkvzmtBdytqAeuJ9DKoCwDTPzPjjMh2`](https://explorer.solana.com/address/3toetXrMDWD2KkkvzmtBdytqAeuJ9DKoCwDTPzPjjMh2?cluster=devnet)
+- Deploy TX: [`4RPsBAjC6vSN1xD3jQmQDq7jJtgWgoaydoh348umxYkW55w83cqifuHgXmXFBHycReS6Fe37mmUZYjhFqoQ8wbGP`](https://explorer.solana.com/tx/4RPsBAjC6vSN1xD3jQmQDq7jJtgWgoaydoh348umxYkW55w83cqifuHgXmXFBHycReS6Fe37mmUZYjhFqoQ8wbGP?cluster=devnet)
+- IDL Account: [`7PVoxSCNnsyjsEq4mBqpyRuYnnWqH1bsqehwT9PwSnbb`](https://explorer.solana.com/address/7PVoxSCNnsyjsEq4mBqpyRuYnnWqH1bsqehwT9PwSnbb?cluster=devnet)
+- Status: ✅ Deployed and confirmed on-chain
 
 ## CLI Client
 
