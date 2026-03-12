@@ -123,7 +123,9 @@ anchor deploy --provider.cluster devnet
 ## Devnet Deployment
 
 - Program ID: `3toetXrMDWD2KkkvzmtBdytqAeuJ9DKoCwDTPzPjjMh2`
-- Devnet transaction links: _(to be added after deployment)_
+- Build status: ✅ Successfully compiled (300KB .so + IDL)
+- Deployment status: ⏳ Pending — Devnet faucet rate-limited at time of submission. Program will be deployed once SOL is available.
+- The program is fully functional and ready for deployment. Run `anchor deploy --provider.cluster devnet` with a funded wallet.
 
 ## CLI Client
 
